@@ -4,7 +4,7 @@ Code Challenge Project
 
 ## Project Description
 
-This repository contains three toy problem projects implemented in separate JavaScript files. Each project solves a specific problem and provides the desired output based on the given inputs.
+This repository contains three projects implemented in separate JavaScript files. Each project solves a specific problem and provides the desired output based on the given inputs.
 
 ## Project Setup
 
